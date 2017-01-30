@@ -1,0 +1,16 @@
+{
+  "name": "horizon-app",
+  "version": "1.0.0",
+  "description": "command line tool that takes flags for sum/products of nubmers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "calculator"
+  ],
+  "author": "",
+  "license": "ISC"
+}
