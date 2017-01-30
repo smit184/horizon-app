@@ -12,7 +12,7 @@ if(flagsPresent.length !== 1){
 }
 
 var isNumber = function(x){
-  return !(isNan(parseFloat(x)));
+  return !(isNaN(parseFloat(x)));
 }
 
 var numbers = args.filter(isNumber).map(parseFloat);
